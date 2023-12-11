@@ -10,12 +10,12 @@ I am Ferdinando Sica!! As a passionate technologist with a background in softwar
 **Master's Degree in Computer Engineering: Artificial Intelligence and Intelligent Robotics** – University of Salerno (Italy)
 * 109/110 
 * During my master’s program, I delved deep into the realm of convolutional neural networks (CNN), emphasizing their application in artificial vision through machine learning. A unique aspect of our curriculum was the integration of competitive contexts and inter‐class challenges. These dynamic challenges saw me and my peers competing, often with my contributions placing us high on class leaderboards. The practical side of the course allowed us to design and train ensemble networks, curate custom datasets, and even explore fields such as autonomous driving and virus detection in executable files.
-* Thesis: _Semi-Automatic labeling of dataset acquired by ego-vehicle via transfer learning:_ [MasterThesis]()
+* Thesis: _Semi-Automatic labeling of dataset acquired by ego-vehicle via transfer learning:_ [MasterThesis](https://github.com/Alcatraz0000/myMasterThesis)
 
 **Bachelor's Degree in Computer Engineering** — University of Salerno (Italy) 
 * 101/110
 * My undergraduate studies provided a comprehensive foundation in computer engineering and introduced me to the nuances of programming. The curriculum was a blend of object‐oriented programming, ensuring I grasped core design patterns and software architecture principles. I also became proficient in computer networking, understanding the intricate details of network protocols and data transmission. Additionally, I undertook modules on database management, which armed me with the skills to design efficient databases and optimize data storage and retrieval.
-* Thesis: _iTenda. Progettazione e ingegnerizzazione di una tenda a rullo smart._ [BachelorThesis]()
+* Thesis: _iTenda. Progettazione e ingegnerizzazione di una tenda a rullo smart._ [BachelorThesis](https://github.com/Alcatraz0000/iTendaThesis)
 
 ### 📚 Main Projects
 * _COGNITIVE ROBOTICS:_ [Social-Robot](https://github.com/CamillaSpi/DefinitivoCog)
@@ -24,7 +24,7 @@ I am Ferdinando Sica!! As a passionate technologist with a background in softwar
 * _MACHINE LEARNING:_ [Painting-Classification](https://github.com/MattiaMarseglia/Painting-Classification)
 * _ARTIFICIAL INTELLIGENCE FOR CYBERSECURITY:_ [Malware-Detection](https://github.com/MattiaMarseglia/Malware-Detection)
 * _ALGORITHMS AND PROTOCOLS FOR SECURITY:_ [Blockchain for Correct Voting](https://github.com/MattiaMarseglia/Blockchain-for-Correct-Voting)
-* _INNOVATION MANAGEMENT:_ [Second_Life_Batteries_Accumulator]()
+* _INNOVATION MANAGEMENT:_ [Second_Life_Batteries_Accumulator](https://github.com/Alcatraz0000/INNOVATION_MANAGEMENT)
 * _SOFTWARE ENGINEERING:_ [Complex-Number-Calculator](https://github.com/CamillaSpi/ProjectGruppo12IZ)
 * _DATABASE DESIGN:_ [Volunteer-Mission-Management-System](https://github.com/MattiaMarseglia/Volunteer-Mission-Management-System)
 * _EMBEDDED SYSTEMS:_ [AIR-Mouse](https://github.com/MattiaMarseglia/AIR-Mouse-Project)
