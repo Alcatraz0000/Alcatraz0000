@@ -21,14 +21,13 @@ I am Ferdinando Sica!! As a passionate technologist with a background in softwar
 * _COGNITIVE ROBOTICS:_ [Social-Robot](https://github.com/CamillaSpi/DefinitivoCog)
 * _AUTONOMOUS VEHICLE DRIVING:_ [AVD](https://github.com/vturi3/AVD_Project)
 * _ARTIFICIAL VISION:_ [Age-Estimation](https://github.com/MattiaMarseglia/Artificial-Vision-Project)
-* _MACHINE LEARNING:_ [Painting-Classification]()
-* _ARTIFICIAL INTELLIGENCE FOR CYBERSECURITY:_ [Malware-Detection]()
-* _ALGORITHMS AND PROTOCOLS FOR SECURITY:_ [Blockchain for Correct Voting]()
-* _Innovation management:_ [Second_Life_Batteries_Accumulator]()
-* _DESIGN AND ANALYSIS OF ALGORITHMS:_ [Social-Network-Analysis]()
+* _MACHINE LEARNING:_ [Painting-Classification](https://github.com/MattiaMarseglia/Painting-Classification)
+* _ARTIFICIAL INTELLIGENCE FOR CYBERSECURITY:_ [Malware-Detection](https://github.com/MattiaMarseglia/Malware-Detection)
+* _ALGORITHMS AND PROTOCOLS FOR SECURITY:_ [Blockchain for Correct Voting](https://github.com/MattiaMarseglia/Blockchain-for-Correct-Voting)
+* _INNOVATION MANAGEMENT:_ [Second_Life_Batteries_Accumulator]()
 * _SOFTWARE ENGINEERING:_ [Complex-Number-Calculator](https://github.com/CamillaSpi/ProjectGruppo12IZ)
-* _DATABASE DESIGN:_ [Volunteer-Mission-Management-System]()
-* _EMBEDDED SYSTEMS:_ [AIR-Mouse]()
+* _DATABASE DESIGN:_ [Volunteer-Mission-Management-System](https://github.com/MattiaMarseglia/Volunteer-Mission-Management-System)
+* _EMBEDDED SYSTEMS:_ [AIR-Mouse](https://github.com/MattiaMarseglia/AIR-Mouse-Project)
 
 
 ### 📫 Contacts
