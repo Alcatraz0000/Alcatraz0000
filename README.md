@@ -3,7 +3,7 @@ I am Ferdinando Sica!! As a passionate technologist with a background in softwar
 
 ### 💼 Work Experience
 **Software Engineer @ IET** – Rome -> Feb. 2023 ‐ Today
-I began my journey at IET as an intern and swiftly evolved into a role where I managed a budding project built on SpringBoot, particularly focusing on the creation of RESTful APIs. My role expanded beyond development to encompass leadership responsibilities, managing a dedicated team, and ensuring tasks were methodically allocated and monitored. This position also required me to frequently organize and facilitate communication, orchestrating calls with our clients and collaborating companies integral to the project’s success. Alongside this primary project, I spent significant time working on transaction management, leveraging tools like Apache Camel and languages such as Java and Groovy to address complex integration challenges.
+* I began my journey at IET as an intern and swiftly evolved into a role where I managed a budding project built on SpringBoot, particularly focusing on the creation of RESTful APIs. My role expanded beyond development to encompass leadership responsibilities, managing a dedicated team, and ensuring tasks were methodically allocated and monitored. This position also required me to frequently organize and facilitate communication, orchestrating calls with our clients and collaborating companies integral to the project’s success. Alongside this primary project, I spent significant time working on transaction management, leveraging tools like Apache Camel and languages such as Java and Groovy to address complex integration challenges.
 
 
 ### 🎓 Academic backgroud
