@@ -13,7 +13,7 @@ I am Ferdinando Sica!! As a passionate technologist with a background in softwar
 * Thesis: _Semi-Automatic labeling of dataset acquired by ego-vehicle via transfer learning:_ [MasterThesis]()
 
 **Bachelor's Degree in Computer Engineering** — University of Salerno (Italy) 
-* 101/110 summa cum Laude
+* 101/110
 * My undergraduate studies provided a comprehensive foundation in computer engineering and introduced me to the nuances of programming. The curriculum was a blend of object‐oriented programming, ensuring I grasped core design patterns and software architecture principles. I also became proficient in computer networking, understanding the intricate details of network protocols and data transmission. Additionally, I undertook modules on database management, which armed me with the skills to design efficient databases and optimize data storage and retrieval.
 * Thesis: _iTenda. Progettazione e ingegnerizzazione di una tenda a rullo smart._ [BachelorThesis]()
 
